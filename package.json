@@ -1,0 +1,16 @@
+{
+  "name": "largejson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_test_json.js",
+  "scripts": {
+    "create_test_data": "node create_test_json.js",
+    "split_data": "node split_json.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.5"
+  }
+}
